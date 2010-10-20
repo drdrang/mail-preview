@@ -12,9 +12,6 @@ $full = stream_get_contents(STDIN);
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="stylesheet" type="text/css" media="all" href="style.css" />
   <script type="text/javascript" src="<?php echo "$home/Library/JavaScript/MathJax/MathJax.js" ?>"></script>
-  <script type="text/javascript" src="styleLineNumbers.js"></script>
-  <script type="text/javascript" src="jquery-1.4.2.min.js"></script>
-  <script type="text/javascript" src="footnote-popup.js"></script>
 </head>
 <body>
   <div id="content">
