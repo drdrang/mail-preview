@@ -1,0 +1,136 @@
+body {
+  font-family: Georgia, Serif;
+  font-size: 14px;
+  background: white;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Helvetica, Sans-Serif;
+}
+
+img {
+  border: 0px;
+}
+
+a {
+  color: blue;
+}
+
+#content {
+  width: 40em;
+  margin-left: 2em;
+  background: white;
+  line-height: 1.2;
+}
+
+#content h1 {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+#content h2 {
+  font-size: 110%;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: -.5em;
+}
+
+#content h3, h4, h5, h6 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: -.5em;
+}
+
+#content pre, blockquote {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#content code {
+  font-size: 12px;
+}
+
+#content blockquote {
+  font-size: 90%;
+}
+
+#content li {
+  margin-top: .5em;
+  margin-bottom: 0;
+}
+
+#content pre {
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+#content .navigation {
+  font-size: 90%;
+}
+
+#content img.ss {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 38em;
+}
+
+#content .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 38em;
+}
+
+#content img.inline {
+  display: inline;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#content .footnote {
+  font-size: 80%;
+  vertical-align: super;
+}
+
+#content div.footnotes {
+  font-size: 90%;
+}
+
+#content div.footnotes ol{
+  padding-left: 1.5em;
+}
+
+#content div.footnotes hr {
+  width: 5em;
+  margin: 0 auto 0 0;
+}
+
+#content table {
+  border-collapse: collapse; 
+}
+
+#content table th {
+  padding: .5em 1em .25em 1em;
+  background-color: #ddd;
+  border: 1px solid black;
+  border-bottom: 2px solid black;
+}
+
+#content table td {
+  padding: .25em 1em .25em 1em;
+  border: 1px solid black;
+}
+
+#content table th.category {
+  border-right: 2px solid black;
+}
+
+#content table td.category {
+  background-color: #ddd;
+  font-weight: bold;
+  border-right: 2px solid black;
+}
+
+
